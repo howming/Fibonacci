@@ -13,4 +13,4 @@ def fib(n):
     return fib
 
 for c in range(43):
-    print(f"第 {c} 階有 {fib(c)} 種可能")
+    print(f"第 {c} 項有 {fib(c)} 種可能")
